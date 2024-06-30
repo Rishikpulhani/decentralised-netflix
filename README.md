@@ -10,7 +10,7 @@ Handled Account Abstraction
 Handled frontend together with Rishik
 
 Rishik:
-Handled integration 
+Handled integration of contracts
 Handled IPFS integration
 Handled frontend together with Utsav
 
@@ -47,5 +47,4 @@ npm install react-scripts --save
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
